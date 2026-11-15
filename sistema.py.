@@ -1,1 +1,2 @@
 print("Sistema de Gerenciamento Iniciado").
+print("Funcionalidade de controle de versão atualizada")
